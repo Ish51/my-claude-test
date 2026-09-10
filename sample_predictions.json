@@ -3,150 +3,175 @@
     "prediction": "I'll score above 90% on the AP Calculus BC unit test on related rates.",
     "domain": "academic",
     "confidence": 90,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll place in the top 3 at the regional math competition's proof-based round.",
     "domain": "academic",
     "confidence": 85,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll get an A- or better on my APUSH essay about the New Deal.",
     "domain": "academic",
     "confidence": 75,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll finish the AMC 12 with a score high enough to qualify for AIME.",
     "domain": "academic",
     "confidence": 65,
-    "outcome": false
+    "outcome": false,
+    "reason": "Overestimated prep"
   },
   {
     "prediction": "I'll get a perfect score on tomorrow's Spanish vocabulary quiz.",
     "domain": "academic",
     "confidence": 95,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll finish in the top 10% of my class on the physics momentum exam.",
     "domain": "academic",
     "confidence": 55,
-    "outcome": false
+    "outcome": false,
+    "reason": "Overestimated prep"
   },
   {
     "prediction": "I'll break 1500 on my next practice SAT after this round of tutoring.",
     "domain": "academic",
     "confidence": 70,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll finish my research paper draft two full days before it's due.",
     "domain": "academic",
     "confidence": 80,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "Jordan will text me back before dinner if I bring up the group project drama.",
     "domain": "social",
     "confidence": 88,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "My joke about the debate coach will land well at lunch and people will actually laugh.",
     "domain": "social",
     "confidence": 85,
-    "outcome": false
+    "outcome": false,
+    "reason": "Misread the room"
   },
   {
     "prediction": "Priya will say yes if I ask her to be my partner for the DECA roleplay event.",
     "domain": "social",
     "confidence": 92,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "My friend group won't be weird with me after I skipped movie night for tournament prep.",
     "domain": "social",
     "confidence": 80,
-    "outcome": false
+    "outcome": false,
+    "reason": "Assumed"
   },
   {
     "prediction": "Everyone will be excited when I suggest hosting the study group at my house this week.",
     "domain": "social",
     "confidence": 90,
-    "outcome": false
+    "outcome": false,
+    "reason": "Wishful thinking"
   },
   {
     "prediction": "My debate partner will agree with my read on the topicality argument without pushback.",
     "domain": "social",
     "confidence": 83,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "My Investopedia portfolio's tech stock pick will beat the S&P 500 this week.",
     "domain": "trading",
     "confidence": 70,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "The biotech stock I shorted will drop after its earnings call Thursday.",
     "domain": "trading",
     "confidence": 55,
-    "outcome": false
+    "outcome": false,
+    "reason": "Bad luck"
   },
   {
     "prediction": "My simulated portfolio will crack the top 20 on the class leaderboard by Friday.",
     "domain": "trading",
     "confidence": 90,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "The EV stock I bought on a hunch will close green tomorrow.",
     "domain": "trading",
     "confidence": 60,
-    "outcome": false
+    "outcome": false,
+    "reason": "Wishful thinking"
   },
   {
     "prediction": "I'll run my personal best mile time at Thursday's track practice.",
     "domain": "sports",
     "confidence": 75,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "Our JV tennis doubles team will win our match against Lincoln High this weekend.",
     "domain": "sports",
     "confidence": 65,
-    "outcome": false
+    "outcome": false,
+    "reason": "Bad luck"
   },
   {
     "prediction": "I'll make varsity cut for the swim team after Wednesday's time trials.",
     "domain": "sports",
     "confidence": 85,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll land my first successful double axel attempt at practice this week.",
     "domain": "sports",
-    "confidence": 50,
-    "outcome": false
+    "confidence": 52,
+    "outcome": false,
+    "reason": "Overestimated prep"
   },
   {
     "prediction": "Our DECA chapter will get at least 5 members through to states this year.",
     "domain": "extracurricular",
     "confidence": 70,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "I'll get elected as debate team captain in this Friday's officer vote.",
     "domain": "extracurricular",
     "confidence": 60,
-    "outcome": true
+    "outcome": true,
+    "reason": null
   },
   {
     "prediction": "Our Model UN committee resolution will pass without major amendments.",
     "domain": "extracurricular",
     "confidence": 80,
-    "outcome": false
+    "outcome": false,
+    "reason": "Assumed"
   }
 ]
